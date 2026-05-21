@@ -1,0 +1,530 @@
+{
+  "user_id": "",
+  "sessions": [
+    {
+      "date": "2026-04-02T13:51:52.962471",
+      "exercise": "squat",
+      "reps": 0,
+      "fatigue": 0.0,
+      "error_rates": {
+        "squat_depth": 0.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.0,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-04-07T11:00:10.870830",
+      "exercise": "squat",
+      "reps": 363,
+      "fatigue": 0.25,
+      "error_rates": {
+        "squat_depth": 1.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.0,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-04-22T16:32:39.982457",
+      "exercise": "squat",
+      "reps": 1393,
+      "fatigue": 0.25,
+      "error_rates": {
+        "squat_depth": 1.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.0,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-04-22T16:45:26.846757",
+      "exercise": "squat",
+      "reps": 219,
+      "fatigue": 0.333,
+      "error_rates": {
+        "squat_depth": 1.0,
+        "trunk_lean": 0.1,
+        "knee_valgus": 0.0,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-04-22T16:50:04.467584",
+      "exercise": "squat",
+      "reps": 230,
+      "fatigue": 0.25,
+      "error_rates": {
+        "squat_depth": 1.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.0,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-04-22T16:56:56.003289",
+      "exercise": "squat",
+      "reps": 381,
+      "fatigue": 0.25,
+      "error_rates": {
+        "squat_depth": 1.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.0,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-04-22T16:58:51.913812",
+      "exercise": "squat",
+      "reps": 0,
+      "fatigue": 0.0,
+      "error_rates": {
+        "squat_depth": 0.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.0,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-04-27T23:21:52.803513",
+      "exercise": "squat",
+      "reps": 1119,
+      "fatigue": 0.25,
+      "error_rates": {
+        "squat_depth": 1.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.0,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-04-28T00:04:49.954485",
+      "exercise": "squat",
+      "reps": 0,
+      "fatigue": 0.0,
+      "error_rates": {
+        "squat_depth": 0.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.0,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-04-28T00:11:53.576595",
+      "exercise": "squat",
+      "reps": 75,
+      "fatigue": 0.25,
+      "error_rates": {
+        "squat_depth": 1.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.2,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-04-28T00:17:34.838650",
+      "exercise": "squat",
+      "reps": 87,
+      "fatigue": 0.25,
+      "error_rates": {
+        "squat_depth": 1.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.0,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-04-28T00:22:14.587563",
+      "exercise": "squat",
+      "reps": 0,
+      "fatigue": 0.0,
+      "error_rates": {
+        "squat_depth": 0.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.0,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-04-28T00:24:28.829362",
+      "exercise": "squat",
+      "reps": 51,
+      "fatigue": 0.25,
+      "error_rates": {
+        "squat_depth": 1.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.3,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-04-28T00:32:54.938579",
+      "exercise": "squat",
+      "reps": 9,
+      "fatigue": 0.25,
+      "error_rates": {
+        "squat_depth": 1.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.0,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-04-28T00:38:14.850121",
+      "exercise": "squat",
+      "reps": 1,
+      "fatigue": 0.0,
+      "error_rates": {
+        "squat_depth": 1.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.0,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-04-28T00:42:35.334669",
+      "exercise": "squat",
+      "reps": 3,
+      "fatigue": 0.25,
+      "error_rates": {
+        "squat_depth": 1.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.0,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-04-28T00:44:51.000638",
+      "exercise": "squat",
+      "reps": 42,
+      "fatigue": 0.25,
+      "error_rates": {
+        "squat_depth": 1.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.0,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-04-28T00:48:46.572354",
+      "exercise": "squat",
+      "reps": 0,
+      "fatigue": 0.0,
+      "error_rates": {
+        "squat_depth": 0.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.0,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-04-28T01:02:55.392630",
+      "exercise": "squat",
+      "reps": 5,
+      "fatigue": 0.333,
+      "error_rates": {
+        "squat_depth": 1.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.0,
+        "asymmetry": 0.2,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-04-28T01:10:23.600357",
+      "exercise": "squat",
+      "reps": 2,
+      "fatigue": 0.0,
+      "error_rates": {
+        "squat_depth": 1.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.0,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-04-28T01:15:53.555712",
+      "exercise": "squat",
+      "reps": 3,
+      "fatigue": 0.25,
+      "error_rates": {
+        "squat_depth": 1.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.0,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-04-28T01:20:15.768539",
+      "exercise": "squat",
+      "reps": 12,
+      "fatigue": 0.25,
+      "error_rates": {
+        "squat_depth": 1.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.1,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-04-28T01:22:22.574346",
+      "exercise": "squat",
+      "reps": 2,
+      "fatigue": 0.0,
+      "error_rates": {
+        "squat_depth": 1.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.0,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-04-28T01:24:55.334883",
+      "exercise": "squat",
+      "reps": 1,
+      "fatigue": 0.0,
+      "error_rates": {
+        "squat_depth": 1.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.0,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-04-28T01:30:32.189759",
+      "exercise": "squat",
+      "reps": 3,
+      "fatigue": 0.25,
+      "error_rates": {
+        "squat_depth": 1.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.0,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-04-28T01:34:04.926534",
+      "exercise": "squat",
+      "reps": 15,
+      "fatigue": 0.417,
+      "error_rates": {
+        "squat_depth": 1.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.3,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-04-28T08:23:51.252940",
+      "exercise": "squat",
+      "reps": 14,
+      "fatigue": 0.25,
+      "error_rates": {
+        "squat_depth": 1.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.0,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-05-15T12:51:20.961311",
+      "exercise": "squat",
+      "reps": 0,
+      "fatigue": 0.0,
+      "error_rates": {
+        "squat_depth": 0.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.0,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-05-15T12:56:58.649728",
+      "exercise": "squat",
+      "reps": 0,
+      "fatigue": 0.0,
+      "error_rates": {
+        "squat_depth": 0.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.0,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-05-15T13:05:26.164404",
+      "exercise": "squat",
+      "reps": 0,
+      "fatigue": 0.0,
+      "error_rates": {
+        "squat_depth": 0.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.0,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-05-15T14:02:21.326023",
+      "exercise": "squat",
+      "reps": 4,
+      "fatigue": 0.25,
+      "error_rates": {
+        "squat_depth": 1.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.0,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-05-15T14:03:54.586569",
+      "exercise": "squat",
+      "reps": 1,
+      "fatigue": 0.0,
+      "error_rates": {
+        "squat_depth": 1.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.0,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-05-15T14:12:16.225858",
+      "exercise": "squat",
+      "reps": 0,
+      "fatigue": 0.0,
+      "error_rates": {
+        "squat_depth": 0.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.0,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-05-15T14:13:22.441185",
+      "exercise": "squat",
+      "reps": 0,
+      "fatigue": 0.0,
+      "error_rates": {
+        "squat_depth": 0.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.0,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    },
+    {
+      "date": "2026-05-21T06:36:54.715232",
+      "exercise": "squat",
+      "reps": 1,
+      "fatigue": 0.0,
+      "error_rates": {
+        "squat_depth": 1.0,
+        "trunk_lean": 0.0,
+        "knee_valgus": 0.0,
+        "asymmetry": 0.0,
+        "back_rounding": 0.0,
+        "deadlift_knee": 0.0,
+        "neck_alignment": 0.0
+      }
+    }
+  ]
+}

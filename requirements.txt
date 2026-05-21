@@ -1,0 +1,9 @@
+# PUNTO DE ENTRADA
+
+# Lista de las 3 dependencias externas del proyecto: OpenCV-Python
+# para captura y dibuja, MediaPipe para estimacion de pose, y Numpy
+# para los calculos vectoriales. Todos lo demas es liberia estandar de Python
+
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+numpy>=1.24.0
